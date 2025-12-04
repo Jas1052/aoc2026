@@ -54,6 +54,7 @@ bool isRepeat(std::string num) {
             }
         }
     }
+    return false;
 }
 
 long long part2(std::vector<std::string> input) {
